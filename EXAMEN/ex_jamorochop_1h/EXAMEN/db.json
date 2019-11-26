@@ -1,0 +1,26 @@
+{
+    "mensajeGrupo07":[{
+        "msg":  "SERVICIO GRUPO 07"
+    }
+    ],
+	"mensajeEliminado":[{
+		"msg": "El Estudiante se ha eliminado correctamente"
+	}
+	],
+	"mensajeEditado":[{
+		"msg": "El Estudiante se ha editado correctamente"
+	}
+	],
+	"mensajeErrorEditado":[{
+		"msg": "Se produjo un problema en la Edición"
+	}
+	],
+	"mensajeErrorEliminado":[{
+		"msg": "Se produjo un problema en la Eliminación"
+	}
+	],
+	"servicioExamen":[{
+		"msg": "Examen Optativa III"
+	}
+	]
+}
